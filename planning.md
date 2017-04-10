@@ -5,4 +5,4 @@
 * Test any service and not just our custom mades services
 
 ### Extras
-* Convert to python3 if possible
+* Convert to python3 when possible
